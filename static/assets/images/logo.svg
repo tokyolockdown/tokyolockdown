@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256.35 254.76" enable-background="new 0 0 256.35 254.76" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- Montserrat is a trademark of Julieta Ulanovsky. -->
+<!-- Copyright: Copyright 2020 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Montserrat-Regular" units-per-em="1000" underline-position="-75" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="274"/>
+<glyph unicode=" " horiz-adv-x="274"/>
+<glyph unicode="C" horiz-adv-x="736" d="M416,107C457,107 492,114 521,128C550,141 581,163 613,193l76,-78C615,33 525,-8 420,-8C314,-8 226,26 157,94C87,162 52,248 52,352C52,456 88,543 159,612C230,681 319,716 428,716C536,716 626,676 699,596l-75,-82C591,546 559,568 530,581C500,594 465,600 425,600C354,600 295,577 247,532C199,486 175,428 175,357C175,286 199,226 247,179C294,131 351,107 416,107z"/>
+<glyph unicode="D" horiz-adv-x="782" d="M329,0l-232,0l0,699l240,0C462,699 559,669 626,608C693,547 727,462 727,353C727,244 694,158 629,95C564,32 464,0 329,0M608,350C608,510 516,590 333,590l-118,0l0,-479l131,0C431,111 496,131 541,172C586,212 608,271 608,350z"/>
+<glyph unicode="K" horiz-adv-x="704" d="M97,699l118,0l0,-341l320,341l150,0l-281,-306l285,-393l-140,0l-232,306l-102,-110l0,-196l-118,0z"/>
+<glyph unicode="L" horiz-adv-x="566" d="M97,0l0,699l118,0l0,-587l319,0l0,-112z"/>
+<glyph unicode="N" horiz-adv-x="836" d="M621,699l118,0l0,-699l-128,0l-396,510l0,-510l-118,0l0,699l118,0l406,-522z"/>
+<glyph unicode="O" horiz-adv-x="840" d="M596,534C548,583 489,608 420,608C351,608 292,583 245,534C197,485 173,425 173,355C173,284 197,224 245,175C292,126 351,101 420,101C489,101 548,126 596,175C643,224 667,284 667,355C667,425 643,485 596,534M682,97C611,28 524,-7 420,-7C316,-7 229,28 158,97C87,166 52,252 52,355C52,458 87,544 158,613C229,682 316,716 420,716C524,716 611,682 682,613C753,544 788,458 788,355C788,252 753,166 682,97z"/>
+<glyph unicode="T" horiz-adv-x="604" d="M361,591l0,-591l-118,0l0,591l-212,0l0,108l542,0l0,-108z"/>
+<glyph unicode="W" horiz-adv-x="1048" d="M315,196l156,503l106,0l156,-503l176,503l127,0l-244,-699l-117,0l-147,479l-8,0l-147,-479l-117,0l-244,699l127,0z"/>
+<glyph unicode="Y" horiz-adv-x="624" d="M372,0l-120,0l0,276l-260,423l129,0l191,-318l191,318l129,0l-260,-423z"/>
+</font>
+
+	<rect x="7.83" y="8.51" fill="none" width="238.32" height="238.32"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-width="1.1963" stroke-miterlimit="10" cx="126.98" cy="127.67" r="119.16"/>
+<rect x="46.03" y="63.49" fill="none" width="161.9" height="136.51"/>
+<text transform="matrix(1 0 0 1 46.0317 90.2034)"><tspan x="0" y="0" font-family="'Montserrat-Regular'" font-size="36px" letter-spacing="7">TOKY</tspan><tspan x="131.67" y="0" font-family="'Montserrat-Regular'" font-size="36px">O </tspan><tspan x="0" y="50" font-family="'Montserrat-Regular'" font-size="36px" letter-spacing="19">LOC</tspan><tspan x="136.56" y="50" font-family="'Montserrat-Regular'" font-size="36px">K </tspan><tspan x="0" y="100" font-family="'Montserrat-Regular'" font-size="36px" letter-spacing="11">DOW</tspan><tspan x="131.81" y="100" font-family="'Montserrat-Regular'" font-size="36px">N</tspan></text>
+</svg>

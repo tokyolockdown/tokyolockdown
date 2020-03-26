@@ -1,0 +1,7 @@
+backend:
+  name: github
+  repo: tokyolockdown/tokyolockdown
+  branch: master
+media_folder: static/assets
+public_folder: /assets
+collections:

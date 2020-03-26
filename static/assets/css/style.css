@@ -1,0 +1,30 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body > main {
+  width: 100vw;
+  height: 100vh;
+}
+
+body > main > header.hero {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
+ 
+body > main > header.hero img.logo {
+  flex: 1 1 initial;
+  width: 50%;
+}
